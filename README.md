@@ -1,5 +1,5 @@
 # SIMULT - Sistema de Multas de Pau dos Ferros
-O SIMULT-PDF é um sistema de cadastramento de multas, desenvolvido na linguagem portugol, com o intuito de aprimorar e desenvolver a logica de programação além de praticar o que foi ensinado nas aulas, o sistema é bem simples e consiste em tomadas de decisões a partir de um menu e das perguntas nas quais são exibidas na tela.  
+>O SIMULT-PDF é um sistema de cadastramento de multas, desenvolvido na linguagem portugol, com o intuito de aprimorar e desenvolver a logica de programação além de praticar o que foi ensinado nas aulas, o sistema é bem simples e consiste em tomadas de decisões a partir de um menu e das perguntas nas quais são exibidas na tela.  
 
 ## :clipboard: Requisitos
 Requer apenas o VisuAlg instalado em sua máquina. [VisuAlg](https://visualg3.com.br/baixe-o-visualg-3-0-7/)
@@ -19,8 +19,5 @@ Projeto finalizado seguindo as seguintes tarefas:
 *  [VisuAlg](https://visualg3.com.br/) (Criação do algoritmo)
 *  [Visual Studio Code](https://code.visualstudio.com/)
    - Extensão [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack) (compartilhamento de código ao vivo)
-
-<br/>
-
 ***
 Feito com :heart: por [Livia Beatriz](https://github.com/liviabeatrizml) e [Leonardo Inácio](https://github.com/leonardoIGD).
