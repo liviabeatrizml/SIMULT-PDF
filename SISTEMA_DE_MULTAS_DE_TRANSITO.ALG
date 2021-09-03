@@ -234,7 +234,7 @@ enquanto (encerrar = falso) faca
        apresentar := headerfrase
        escreval(apresentar)
 
-       //Relat�rio do infrator
+       //Relatório do infrator
        escreval("     + - - - - - - - - - - - - - - - - - - - - - - - - - - +")
        escreval("     |               NOTIFICAÇÃO DE AUTUAÇÃO               |")
        escreval("     |        POR INFRAÇÃO À LEGISLAÇÃO DE TRÂNSITO        |")
