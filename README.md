@@ -13,6 +13,7 @@ Projeto finalizado seguindo as seguintes tarefas:
 - [x] Fazer os relatórios
 - [x] Fazer os testes
 - [x] Correções de erros
+- [x] Adicionar comentários para melhor entendimento 
 - [x] Acrescentar melhorias
 
 ## :hammer_and_wrench: Construído com
