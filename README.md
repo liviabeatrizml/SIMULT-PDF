@@ -21,4 +21,4 @@ Projeto finalizado seguindo as seguintes tarefas:
 *  [Visual Studio Code](https://code.visualstudio.com/)
    - Extensão [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack) (compartilhamento de código ao vivo)
 ***
-Feito com :heart: por [Livia Beatriz](https://github.com/liviabeatrizml) e [Leonardo Inácio](https://github.com/leonardoIGD).
+Feito por [Livia Beatriz](https://github.com/liviabeatrizml) e [Leonardo Inácio](https://github.com/leonardoIGD).
